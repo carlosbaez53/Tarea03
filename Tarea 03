@@ -1,0 +1,16 @@
+README.md
+Carlos Alberto Gimenez Baez
+
+1. Que es bootstrap?
+Bootstrap es un framework de css, en otras palabras es un conjunto de archivos CSS que incluyes en tu página y puedes empezar a maquetar el sitio web en minutos, sin tocar una sola linea de CSS.
+
+2. Que es CSSOO?
+El “CSS orientado a objetos” es una metodología para escribir CSS (y HTML) que pretende fomentar la reutilización de código y la creación de webs en que la combinación de HTML y CSS tenga un mejor rendimiento y mantenibilidad.
+
+3. Que es CSS component?
+Los componentes son elementos visuales independientes. Los patrones, por otro lado, son bloques. No se soportan por sí mismos y raramente describen el aspecto visual, lo que se ve y se siente. En cambio son sencillos y repetibles patrones que pueden ser puestos juntos para formar un componente.
+
+4. Que es CSS pre-procesadores?
+Un preprocesador de CSS es una herramienta que nos permite escribir pseudo-código CSS que luego será convertido a CSS real. Ese pseudo-código se conforma de variables, condiciones, bucles o funciones. Podríamos decir que tenemos un lenguaje de programación que genera CSS.
+
+El objetivo de estos preprocesadores es tener un código más sencillo de mantener y editar. Los preprocesadores incluyen características tales como variables, funciones, mixins, anidación o modularidad.
